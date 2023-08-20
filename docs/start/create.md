@@ -206,7 +206,7 @@ There are many other interesting things that you can do with notebook content as
 
 Finally, you can **combine** Jupyter Notebook and text formats with Jupyter Book.
 This allows you to write the structure of a Jupyter Notebook entirely with text.
-This requires the use of a special YAML metadata blog that tells Jupyter Book (via a tool called [Jupytext](https://jupytext.readthedocs.io/)) to create a notebook for the page and execute its content.
+This requires the use of a special YAML metadata block that tells Jupyter Book (via a tool called [Jupytext](https://jupytext.readthedocs.io/)) to create a notebook for the page and execute its content.
 
 For more information about MyST Markdown notebooks, see [](file-types:myst-notebooks).
 
